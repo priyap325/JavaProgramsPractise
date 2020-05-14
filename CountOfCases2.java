@@ -2,7 +2,6 @@ package practice1;
 
 public class CountOfCases2 {
 	
-	 @SuppressWarnings("deprecation")
 	static void character_case_count(String inputString)
 	    {
 	        //Getting total no of characters in the given string
